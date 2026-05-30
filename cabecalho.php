@@ -11,5 +11,3 @@
         <div class="jumbotron">
             <h1>CRUD - Contato - PHP Profissional</h1>
     </div>
-</body>
-</html>

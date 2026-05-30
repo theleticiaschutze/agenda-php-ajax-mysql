@@ -1,3 +1,7 @@
+create database agenda;
+
+use agenda;
+
 CREATE TABLE `contato`(
     `id` int(11) not null auto_increment,
     `nome` varchar(50) not null,
